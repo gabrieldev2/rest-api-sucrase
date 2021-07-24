@@ -19,7 +19,7 @@ npx sequelize db:seed:all
 npm run dev
 ```
 
-At this point your API should be running at the address http://localhost:3001.
+At this point your API should be running at the address http://localhost:3001
 
 The default configuration is MySQL/MariaDB, if you want to change it, edit the database in the file `.env`, also configure the `src/config/database.js`.
 
